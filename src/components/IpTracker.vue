@@ -132,7 +132,7 @@ export default {
 
     button:hover,
     button:focus {
-      background: hsl(0, 0, 17%);
+      background: rgb(43, 43, 43);
     }
   }
 
@@ -191,7 +191,6 @@ export default {
       top: 0;
       left: -25px;
       bottom: 0;
-      // right: 0;
       margin: auto;
     }
   }

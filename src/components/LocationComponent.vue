@@ -29,7 +29,7 @@ export default {
   }
 
   h3 {
-    color: hsl(0, 0, 17%);
+    color: rgb(43, 43, 43);
   }
 
   @media (min-width: 650px) {
